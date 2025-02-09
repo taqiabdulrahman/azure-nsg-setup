@@ -131,7 +131,7 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 Observe the DHCP traffic appearing in WireShark:
 </p>
 <p>
-  <img src="https://i.imgur.com/mKyAHFr.png" height="75%" width="100%" alt="DHCP traffic"/>
+  <img src="https://i.imgur.com/mKyAHFr.png" height="100%" width="100%" alt="DHCP traffic"/>
 </p>
 <br />
 <br />
@@ -146,7 +146,7 @@ Observe the DHCP traffic appearing in WireShark:
   From your Windows 10 VM within a command line, use nslookup to see what google.com and disney.com’s IP addresses are and observe the DNS traffic being shown in WireShark:
 </p>
 <p>
-  <img src="https://i.imgur.com/mYZ8CAK.png" height="75%" width="100%" alt="DNS traffic"/>
+  <img src="https://i.imgur.com/mYZ8CAK.png" height="100%" width="100%" alt="DNS traffic"/>
 </p>
 <br />
 <br />
